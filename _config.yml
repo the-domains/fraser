@@ -1,7 +1,7 @@
 name: fraser
 favicon: null
-layout_spectrum: 0.06647705473005772
-typography_spectrum: 0.6146425006445497
+layout_spectrum: 0.24995
+typography_spectrum: 0
 title: Just ramblings
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.964553001569584
+    - '#ffffff'
+    - '#94b9dd'
+    - '#446882'
+    - '#f3d6aa'
+    - '#271e19'
+  brandStrength: 0.5
   lightness: 0.7995866411365569
   saturation: 0.617137455381453
-  rhythmicContrast: 0.010136101394891739
+  rhythmicContrast: 0.5
 purpose: []
