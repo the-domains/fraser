@@ -1,7 +1,7 @@
 name: fraser
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0
+layout_spectrum: 0.75275
+typography_spectrum: 0.00229
 title: Fraser McCulloch
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#d73c66'
     - '#e88fa8'
     - '#df6283'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
